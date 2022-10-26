@@ -1,0 +1,1 @@
+R. Bai and S. Hranilovic, "Absolute Value Layered ACO-OFDM for Intensity-Modulated Optical Wireless Channels," IEEE Trans.Commun., vol. 68, no. 11, pp. 7098-7110, Nov. 2020, doi: 10.1109/TCOMM.2020.3010986.
