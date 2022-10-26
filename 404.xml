@@ -1,0 +1,776 @@
+<?xml version="1.0" ?>
+<all>
+	<_value type="str">html</_value>
+	<html type="list">
+		<item type="dict">
+			<_attributes type="dict">
+				<lang type="str">en-us</lang>
+			</_attributes>
+			<head type="list">
+				<item type="dict">
+					<meta type="list">
+						<item type="dict">
+							<_attributes type="dict">
+								<charset type="str">utf-8</charset>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<name type="str">viewport</name>
+								<content type="str">width=device-width, initial-scale=1</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<http-equiv type="str">X-UA-Compatible</http-equiv>
+								<content type="str">IE=edge</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<name type="str">generator</name>
+								<content type="str">Source Themes Academic 4.3.1</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<name type="str">author</name>
+								<content type="str">Aaron Bai</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<name type="str">description</name>
+								<content type="str">Ph.D. Candidate</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<name type="str">theme-color</name>
+								<content type="str">#2962ff</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<property type="str">twitter:card</property>
+								<content type="str">summary</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<property type="str">og:site_name</property>
+								<content type="str">Aaron Bai</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<property type="str">og:url</property>
+								<content type="str">aaronruowenbai.github.io/404.html</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<property type="str">og:title</property>
+								<content type="str">404 Page not found | Aaron Bai</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<property type="str">og:description</property>
+								<content type="str">Ph.D.</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<property type="str">og:image</property>
+								<content type="str">aaronruowenbai.github.io/img/icon-192.png</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<property type="str">twitter:image</property>
+								<content type="str">aaronruowenbai.github.io/img/icon-192.png</content>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<property type="str">og:locale</property>
+								<content type="str">en-us</content>
+							</_attributes>
+						</item>
+					</meta>
+					<link type="list">
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">alternate</item>
+								</rel>
+								<hreflang type="str">en-us</hreflang>
+								<href type="str">aaronruowenbai.github.io/404.html</href>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css</href>
+								<integrity type="str">sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">https://use.fontawesome.com/releases/v5.6.0/css/all.css</href>
+								<integrity type="str">sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css</href>
+								<integrity type="str">sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css</href>
+								<crossorigin type="str">anonymous</crossorigin>
+								<title type="str">hl-light</title>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css</href>
+								<crossorigin type="str">anonymous</crossorigin>
+								<title type="str">hl-dark</title>
+								<disabled type="str"/>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css</href>
+								<integrity type="str">sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&amp;display=swap</href>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">/css/academic.min.35387d828cf63a93f82a2d63a578781f.css</href>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">stylesheet</item>
+								</rel>
+								<href type="str">/css/academic.94e4da6b329d8b4eeeda488bb07d4ffd.css</href>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">manifest</item>
+								</rel>
+								<href type="str">/site.webmanifest</href>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">icon</item>
+								</rel>
+								<type type="str">image/png</type>
+								<href type="str">/img/icon.png</href>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">apple-touch-icon</item>
+								</rel>
+								<type type="str">image/png</type>
+								<href type="str">/img/icon-192.png</href>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<rel type="list">
+									<item type="str">canonical</item>
+								</rel>
+								<href type="str">aaronruowenbai.github.io/404.html</href>
+							</_attributes>
+						</item>
+					</link>
+					<script type="list">
+						<item type="dict">
+							<_value type="str">window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', 'UA-144823599-1', 'auto');
+
+    ga('require', 'eventTracker');
+    ga('require', 'outboundLinkTracker');
+    ga('require', 'urlChangeTracker');
+    ga('send', 'pageview');</_value>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<async type="str"/>
+								<src type="str">//www.google-analytics.com/analytics.js</src>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<async type="str"/>
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js</src>
+								<integrity type="str">sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+					</script>
+					<title type="list">
+						<item type="dict">
+							<_value type="str">404 Page not found | Aaron Bai</_value>
+						</item>
+					</title>
+				</item>
+			</head>
+			<body type="list">
+				<item type="dict">
+					<_attributes type="dict">
+						<id type="str">top</id>
+						<data-spy type="str">scroll</data-spy>
+						<data-offset type="str">70</data-offset>
+						<data-target type="str">#TableOfContents</data-target>
+					</_attributes>
+					<aside type="list">
+						<item type="dict">
+							<_attributes type="dict">
+								<class type="list">
+									<item type="str">search-results</item>
+								</class>
+								<id type="str">search</id>
+							</_attributes>
+							<div type="list">
+								<item type="dict">
+									<_attributes type="dict">
+										<class type="list">
+											<item type="str">container</item>
+										</class>
+									</_attributes>
+									<section type="list">
+										<item type="dict">
+											<_attributes type="dict">
+												<class type="list">
+													<item type="str">search-header</item>
+												</class>
+											</_attributes>
+											<div type="list">
+												<item type="dict">
+													<_attributes type="dict">
+														<class type="list">
+															<item type="str">row</item>
+															<item type="str">no-gutters</item>
+															<item type="str">justify-content-between</item>
+															<item type="str">mb-3</item>
+														</class>
+													</_attributes>
+													<div type="list">
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">col-6</item>
+																</class>
+															</_attributes>
+															<h1 type="list">
+																<item type="dict">
+																	<_value type="str">Search</_value>
+																</item>
+															</h1>
+														</item>
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">col-6</item>
+																	<item type="str">col-search-close</item>
+																</class>
+															</_attributes>
+															<a type="list">
+																<item type="dict">
+																	<_attributes type="dict">
+																		<class type="list">
+																			<item type="str">js-search</item>
+																		</class>
+																		<href type="str">#</href>
+																	</_attributes>
+																	<i type="list">
+																		<item type="dict">
+																			<_attributes type="dict">
+																				<class type="list">
+																					<item type="str">fas</item>
+																					<item type="str">fa-times-circle</item>
+																					<item type="str">text-muted</item>
+																				</class>
+																				<aria-hidden type="str">true</aria-hidden>
+																			</_attributes>
+																		</item>
+																	</i>
+																</item>
+															</a>
+														</item>
+													</div>
+												</item>
+												<item type="dict">
+													<_attributes type="dict">
+														<id type="str">search-box</id>
+													</_attributes>
+													<input type="list">
+														<item type="dict">
+															<_attributes type="dict">
+																<name type="str">q</name>
+																<id type="str">search-query</id>
+																<placeholder type="str">Search...</placeholder>
+																<autocapitalize type="str">off</autocapitalize>
+																<autocomplete type="str">off</autocomplete>
+																<autocorrect type="str">off</autocorrect>
+																<spellcheck type="str">false</spellcheck>
+																<type type="str">search</type>
+															</_attributes>
+														</item>
+													</input>
+												</item>
+											</div>
+										</item>
+										<item type="dict">
+											<_attributes type="dict">
+												<class type="list">
+													<item type="str">section-search-results</item>
+												</class>
+											</_attributes>
+											<div type="list">
+												<item type="dict">
+													<_attributes type="dict">
+														<id type="str">search-hits</id>
+													</_attributes>
+												</item>
+											</div>
+										</item>
+									</section>
+								</item>
+							</div>
+						</item>
+					</aside>
+					<nav type="list">
+						<item type="dict">
+							<_attributes type="dict">
+								<class type="list">
+									<item type="str">navbar</item>
+									<item type="str">navbar-light</item>
+									<item type="str">fixed-top</item>
+									<item type="str">navbar-expand-lg</item>
+									<item type="str">py-0</item>
+									<item type="str">compensate-for-scrollbar</item>
+								</class>
+								<id type="str">navbar-main</id>
+							</_attributes>
+							<div type="list">
+								<item type="dict">
+									<_attributes type="dict">
+										<class type="list">
+											<item type="str">container</item>
+										</class>
+									</_attributes>
+									<a type="list">
+										<item type="dict">
+											<_attributes type="dict">
+												<class type="list">
+													<item type="str">navbar-brand</item>
+												</class>
+												<href type="str">/</href>
+											</_attributes>
+											<_value type="str">Aaron Bai</_value>
+										</item>
+									</a>
+									<button type="list">
+										<item type="dict">
+											<_attributes type="dict">
+												<type type="str">button</type>
+												<class type="list">
+													<item type="str">navbar-toggler</item>
+												</class>
+												<data-toggle type="str">collapse</data-toggle>
+												<data-target type="str">#navbar</data-target>
+												<aria-controls type="str">navbar</aria-controls>
+												<aria-expanded type="str">false</aria-expanded>
+												<aria-label type="str">Toggle navigation</aria-label>
+											</_attributes>
+											<span type="list">
+												<item type="dict">
+													<i type="list">
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">fas</item>
+																	<item type="str">fa-bars</item>
+																</class>
+															</_attributes>
+														</item>
+													</i>
+												</item>
+											</span>
+										</item>
+									</button>
+									<div type="list">
+										<item type="dict">
+											<_attributes type="dict">
+												<class type="list">
+													<item type="str">collapse</item>
+													<item type="str">navbar-collapse</item>
+												</class>
+												<id type="str">navbar</id>
+											</_attributes>
+											<ul type="list">
+												<item type="dict">
+													<_attributes type="dict">
+														<class type="list">
+															<item type="str">navbar-nav</item>
+															<item type="str">mr-auto</item>
+														</class>
+													</_attributes>
+													<li type="list">
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">nav-item</item>
+																</class>
+															</_attributes>
+															<a type="list">
+																<item type="dict">
+																	<_attributes type="dict">
+																		<class type="list">
+																			<item type="str">nav-link</item>
+																		</class>
+																		<href type="str">/#about</href>
+																		<data-target type="str">#about</data-target>
+																	</_attributes>
+																	<span type="list">
+																		<item type="dict">
+																			<_value type="str">Home</_value>
+																		</item>
+																	</span>
+																</item>
+															</a>
+														</item>
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">nav-item</item>
+																</class>
+															</_attributes>
+															<a type="list">
+																<item type="dict">
+																	<_attributes type="dict">
+																		<class type="list">
+																			<item type="str">nav-link</item>
+																		</class>
+																		<href type="str">/#honors</href>
+																		<data-target type="str">#honors</data-target>
+																	</_attributes>
+																	<span type="list">
+																		<item type="dict">
+																			<_value type="str">Honors</_value>
+																		</item>
+																	</span>
+																</item>
+															</a>
+														</item>
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">nav-item</item>
+																</class>
+															</_attributes>
+															<a type="list">
+																<item type="dict">
+																	<_attributes type="dict">
+																		<class type="list">
+																			<item type="str">nav-link</item>
+																		</class>
+																		<href type="str">/#publications</href>
+																		<data-target type="str">#publications</data-target>
+																	</_attributes>
+																	<span type="list">
+																		<item type="dict">
+																			<_value type="str">Publications</_value>
+																		</item>
+																	</span>
+																</item>
+															</a>
+														</item>
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">nav-item</item>
+																</class>
+															</_attributes>
+															<a type="list">
+																<item type="dict">
+																	<_attributes type="dict">
+																		<class type="list">
+																			<item type="str">nav-link</item>
+																		</class>
+																		<href type="str">/#skills</href>
+																		<data-target type="str">#skills</data-target>
+																	</_attributes>
+																	<span type="list">
+																		<item type="dict">
+																			<_value type="str">Skills</_value>
+																		</item>
+																	</span>
+																</item>
+															</a>
+														</item>
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">nav-item</item>
+																</class>
+															</_attributes>
+															<a type="list">
+																<item type="dict">
+																	<_attributes type="dict">
+																		<class type="list">
+																			<item type="str">nav-link</item>
+																		</class>
+																		<href type="str">/cv.pdf</href>
+																	</_attributes>
+																	<span type="list">
+																		<item type="dict">
+																			<_value type="str">CV</_value>
+																		</item>
+																	</span>
+																</item>
+															</a>
+														</item>
+													</li>
+												</item>
+												<item type="dict">
+													<_attributes type="dict">
+														<class type="list">
+															<item type="str">navbar-nav</item>
+															<item type="str">ml-auto</item>
+														</class>
+													</_attributes>
+													<li type="list">
+														<item type="dict">
+															<_attributes type="dict">
+																<class type="list">
+																	<item type="str">nav-item</item>
+																</class>
+															</_attributes>
+															<a type="list">
+																<item type="dict">
+																	<_attributes type="dict">
+																		<class type="list">
+																			<item type="str">nav-link</item>
+																			<item type="str">js-search</item>
+																		</class>
+																		<href type="str">#</href>
+																	</_attributes>
+																	<i type="list">
+																		<item type="dict">
+																			<_attributes type="dict">
+																				<class type="list">
+																					<item type="str">fas</item>
+																					<item type="str">fa-search</item>
+																				</class>
+																				<aria-hidden type="str">true</aria-hidden>
+																			</_attributes>
+																		</item>
+																	</i>
+																</item>
+															</a>
+														</item>
+													</li>
+												</item>
+											</ul>
+										</item>
+									</div>
+								</item>
+							</div>
+						</item>
+					</nav>
+					<div type="list">
+						<item type="dict">
+							<_attributes type="dict">
+								<class type="list">
+									<item type="str">universal-wrapper</item>
+									<item type="str">pt-3</item>
+								</class>
+							</_attributes>
+							<h1 type="list">
+								<item type="dict">
+									<_value type="str">Page not found</_value>
+								</item>
+							</h1>
+							<form type="list">
+								<item type="dict">
+									<_attributes type="dict">
+										<class type="list">
+											<item type="str">d-flex</item>
+											<item type="str">align-items-center</item>
+											<item type="str">mb-3</item>
+										</class>
+									</_attributes>
+									<input type="list">
+										<item type="dict">
+											<_attributes type="dict">
+												<name type="str">q</name>
+												<type type="str">search</type>
+												<class type="list">
+													<item type="str">form-control</item>
+												</class>
+												<id type="str">search-query</id>
+												<placeholder type="str">Search...</placeholder>
+												<autocomplete type="str">off</autocomplete>
+											</_attributes>
+										</item>
+									</input>
+								</item>
+							</form>
+						</item>
+					</div>
+					<script type="list">
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">/js/mathjax-config.js</src>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js</src>
+								<integrity type="str">sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js</src>
+								<integrity type="str">sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js</src>
+								<integrity type="str">sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js</src>
+								<integrity type="str">sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js</src>
+								<integrity type="str">sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full</src>
+								<integrity type="str">sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+								<async type="str"/>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js</src>
+								<integrity type="str">sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_value type="str">hljs.initHighlightingOnLoad();</_value>
+						</item>
+						<item type="dict">
+							<_value type="str">const search_index_filename = &quot;/index.json&quot;;
+      const i18n = {
+        'placeholder': &quot;Search...&quot;,
+        'results': &quot;results found&quot;,
+        'no_results': &quot;No results found&quot;
+      };
+      const content_type = {
+        'post': &quot;Posts&quot;,
+        'project': &quot;Projects&quot;,
+        'publication' : &quot;Publications&quot;,
+        'talk' : &quot;Talks&quot;
+        };</_value>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<id type="str">search-hit-fuse-template</id>
+								<type type="str">text/x-template</type>
+							</_attributes>
+							<_value type="str">&lt;div class=&quot;search-hit&quot; id=&quot;summary-{{key}}&quot;&gt;
+      &lt;div class=&quot;search-hit-content&quot;&gt;
+        &lt;div class=&quot;search-hit-name&quot;&gt;
+          &lt;a href=&quot;{{relpermalink}}&quot;&gt;{{title}}&lt;/a&gt;
+          &lt;div class=&quot;article-metadata search-hit-type&quot;&gt;{{type}}&lt;/div&gt;
+          &lt;p class=&quot;search-hit-description&quot;&gt;{{snippet}}&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;</_value>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js</src>
+								<integrity type="str">sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+						<item type="dict">
+							<_attributes type="dict">
+								<src type="str">https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js</src>
+								<integrity type="str">sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=</integrity>
+								<crossorigin type="str">anonymous</crossorigin>
+							</_attributes>
+						</item>
+					</script>
+				</item>
+			</body>
+		</item>
+	</html>
+</all>
