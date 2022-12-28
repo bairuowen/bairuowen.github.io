@@ -65,7 +65,7 @@
 						<item type="dict">
 							<_attributes type="dict">
 								<property type="str">og:url</property>
-								<content type="str">aaronruowenbai.github.io/</content>
+								<content type="str">bairuowen.github.io/</content>
 							</_attributes>
 						</item>
 						<item type="dict">
@@ -83,13 +83,13 @@
 						<item type="dict">
 							<_attributes type="dict">
 								<property type="str">og:image</property>
-								<content type="str">aaronruowenbai.github.io/img/icon-192.png</content>
+								<content type="str">bairuowen.github.io/img/icon-192.png</content>
 							</_attributes>
 						</item>
 						<item type="dict">
 							<_attributes type="dict">
 								<property type="str">twitter:image</property>
-								<content type="str">aaronruowenbai.github.io/img/icon-192.png</content>
+								<content type="str">bairuowen.github.io/img/icon-192.png</content>
 							</_attributes>
 						</item>
 						<item type="dict">
@@ -112,7 +112,7 @@
 									<item type="str">alternate</item>
 								</rel>
 								<hreflang type="str">en-us</hreflang>
-								<href type="str">aaronruowenbai.github.io</href>
+								<href type="str">bairuowen.github.io</href>
 							</_attributes>
 						</item>
 						<item type="dict">
@@ -241,7 +241,7 @@
 								<rel type="list">
 									<item type="str">canonical</item>
 								</rel>
-								<href type="str">aaronruowenbai.github.io/</href>
+								<href type="str">bairuowen.github.io/</href>
 							</_attributes>
 						</item>
 					</link>
@@ -1226,10 +1226,10 @@
 																	<_value type="str">[2020] Ph.D. Comprehensive Examination: Pass with Distinction (P+)</_value>
 																</item>
 																<item type="dict">
-																	<_value type="str">[2017] National Scholarship for Graduate Students at Tsinghua University (¥20000, Rank 1/62)</_value>
+																	<_value type="str">[2017] National Scholarship for Graduate Students at Tsinghua University (Â¥20000, Rank 1/62)</_value>
 																</item>
 																<item type="dict">
-																	<_value type="str">[2014] National Scholarship for Undergraduate Students at Nankai University (¥8000, Rank 1/46)</_value>
+																	<_value type="str">[2014] National Scholarship for Undergraduate Students at Nankai University (Â¥8000, Rank 1/46)</_value>
 																</item>
 																<item type="dict">
 																	<_value type="str">[2014] National First Prize in Contemporary Undergraduate Mathematical Contest in Modeling</_value>
@@ -1238,7 +1238,7 @@
 																	<_value type="str">[2013] Tianjin Province-First Prize in National Undergraduate Electronic Design Contest</_value>
 																</item>
 																<item type="dict">
-																	<_value type="str">[2012] Tianjin Province-First Prize in “TI Cup” Undergraduate Electronic Design Contest</_value>
+																	<_value type="str">[2012] Tianjin Province-First Prize in Â“TI CupÂ” Undergraduate Electronic Design Contest</_value>
 																</item>
 															</li>
 														</item>
@@ -2629,7 +2629,7 @@
 												</item>
 											</a>
 											<_values type="list">
-												<item type="str">©Aaron Bai ·
+												<item type="str">Â©Aaron Bai Â·
 
     Powered by the</item>
 												<item type="str">for</item>
@@ -2733,7 +2733,7 @@
 																	<_attributes type="dict">
 																		<aria-hidden type="str">true</aria-hidden>
 																	</_attributes>
-																	<_value type="str">×</_value>
+																	<_value type="str">Ã—</_value>
 																</item>
 															</span>
 														</item>
